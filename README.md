@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ScottySnyder
-- 👀 I’m interested in learning how to code well and using the tool set to do cool stuff
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on school coding projects
+- 🌱 I’m currently learning various concepts while earning my Computer Science degree at ASU
+- 💞️ I’m looking to collaborate on school coding projects and anything that I have time for
 - 📫 How to reach me by email: scottsnyder@vivaldi.net
-
